@@ -11,6 +11,11 @@ A visually rich, structured, and professionally documented analysis using Excel 
 ![Business Intelligence](https://img.shields.io/badge/Business%20Analytics-Insights%20%26%20KPIs-blueviolet)
 
 
+<p align="center">
+  <img src="https://github.com/Ashwin18-Offcl/Excel_Pivot_Tables_Projects/blob/main/Pivot.png" alt="Excel Pivot Table Banner" width="100%">
+  <h2>📊 Excel Pivot Table Analysis</h2>
+</p>
+
 ## *1. Project Overview**
 This project showcases how **Excel Pivot Tables** can be used to transform raw sales data into meaningful and actionable business insights.  
 The analysis covers:
